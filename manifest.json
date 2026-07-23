@@ -1,6 +1,6 @@
 {
-  "name": "Respring",
-  "short_name": "Respring",
+  "name": "Tinder",
+  "short_name": "Tinder",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
